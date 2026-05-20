@@ -2,10 +2,6 @@
 
 ![alt text](https://github.com/pvateekul/CU-DEPA-PracticalAI/blob/main/image/meme.jpg)
 
-## Syllabus:
-
-[Syllabus](slide/DSDE_Syllabus_2025s2.pdf)
-
 ## Code:
 
 ### Day01
