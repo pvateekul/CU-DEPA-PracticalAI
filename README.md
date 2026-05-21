@@ -4,6 +4,8 @@
 
 ## Code:
 
+### Topic 0: Data Preparation
+
 ### Topic 1: Introduction (No LAB)
 <!-- #### Intro to Pandas
 
@@ -20,7 +22,7 @@
 
 3. Logistic Regression: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day01_Supervised_Learning/3_Logistic_Regression_v2.ipynb)
 
-4. Neural Network: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day01_Supervised_Learning/4_Neural_Network_v3.ipynb)
+4. Neural Network: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day01_Supervised_Learning/4_NN_and_Pipeline.ipynb)
 
 7. Save and Load Model: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day01_Supervised_Learning/5_Save_Load_Model_v2.ipynb)
 
@@ -28,9 +30,9 @@
 
 1. K-Means: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day02_Unsupervised_Learning/1_K_Means_Clustering_v2.ipynb)
 
-2. DBSCAN: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day02_Unsupervised_Learning/2_DBSCAN_Clustering_opt1.ipynb)
+2. DBSCAN: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day02_Unsupervised_Learning/2_DBSCAN_Clustering.ipynb)
 
-3. t-distributed stochastic neighbor embedding (t-SNE): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day02_Unsupervised_Learning/3_TSNE_opt1.ipynb)
+3. t-distributed stochastic neighbor embedding (t-SNE): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day02_Unsupervised_Learning/3_TSNE.ipynb)
 
 ### Topic 4: Deep Learning - CNN & RNN
 
@@ -58,6 +60,8 @@
 
 7. Typhoon Text Model [`API / Hugging Face`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day04_LLM/7_Typhoon_Text_Inference.ipynb)
 
-8. Typhoon OCR [`API / Hugging Face`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day04_LLM/8_Typhoon_OCR_v1_5_Modified_Demo.ipynb)
+<!-- 8. Typhoon OCR [`API / Hugging Face`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day04_LLM/8_Typhoon_OCR_v1_5_Modified_Demo.ipynb)
 
-9. Fine-tuning a Local LLM (Typhoon-7B) [`Hugging Face`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day04_LLM/9_LLM_Typhoon7b_Finetuning_Huggingface.ipynb)
+9. Fine-tuning a Local LLM (Typhoon-7B) [`Hugging Face`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day04_LLM/9_LLM_Typhoon7b_Finetuning_Huggingface.ipynb) -->
+
+
