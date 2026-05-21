@@ -32,32 +32,32 @@
 
 3. t-distributed stochastic neighbor embedding (t-SNE): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day02_Unsupervised_Learning/3_TSNE_opt1.ipynb)
 
-### Day04: Deep Learning
+### Day03: Deep Learning
 
-1. Image classification with CNN [`PyTorch Lightning`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day04_DL/1_Image_classification_CIFAR10_CNN(lightning).ipynb)
+1. Image classification with CNN [`PyTorch Lightning`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day03_DL/1_Image_classification_CIFAR10_CNN(lightning).ipynb)
 
-2. Image classification with EfficientNetV2s [`PyTorch Lightning`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day04_DL/2_Image_classification_Animal_EfficientNetV2(lightning).ipynb)
+2. Image classification with EfficientNetV2s [`PyTorch Lightning`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day03_DL/2_Image_classification_Animal_EfficientNetV2(lightning).ipynb)
 
-3. Object detection with YOLOv8 (basic script) [`PyTorch Lightning`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day04_DL/3_Object_detection_VOCDetection_yolov8_basic.ipynb)
+3. Object detection with YOLOv8 (basic script) [`PyTorch Lightning`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day03_DL/3_Object_detection_VOCDetection_yolov8_basic.ipynb)
 
-4. Time series Forecasting: Stock Price [`PyTorch`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day04_DL/4_Time_series_forecasting_DataInGD_update.ipynb)
+4. Time series Forecasting: Stock Price [`PyTorch`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day03_DL/4_Time_series_forecasting_DataInGD_update.ipynb)
 
 ### Day04: Large Langauge Model (LLM)
 
-1. Basic API Call with LangChain [`API`] [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day04_LLM/7_1_LLM_Basic_API_Call_LangChain.ipynb)
+1. Basic API Call with LangChain [`API`] [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day04_LLM/1_LLM_Basic_API_Call_LangChain.ipynb)
 
-2. Basic Prompt Engineering [`API`] [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day04_LLM/7_2_LLM_Prompt_Engineering_Basic_LangChain.ipynb)
+2. Basic Prompt Engineering [`API`] [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day04_LLM/2_LLM_Prompt_Engineering_Basic_LangChain.ipynb)
 
-3. Advanced Prompt Engineering [`API`] [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day04_LLM/7_3_LLM_Prompt_Engineering_Advanced_LangChain.ipynb)
+3. Advanced Prompt Engineering [`API`] [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day04_LLM/3_LLM_Prompt_Engineering_Advanced_LangChain.ipynb)
 
-4. LangChain Playground and Tracking with LangSmith [`API`] [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day04_LLM/7_4_LLM_LangChain_Playground_Tracking_with_LangSmith_Groq.ipynb)
+4. LangChain Playground and Tracking with LangSmith [`API`] [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day04_LLM/4_LLM_LangChain_Playground_Tracking_with_LangSmith_Groq.ipynb)
 
-5. Basic LangGraph [`API`] [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day04_LLM/7_5_LLM_Basic_LangGraph.ipynb)
+5. Basic LangGraph [`API`] [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day04_LLM/5_LLM_Basic_LangGraph.ipynb)
 
-6. RAG with LangChain and Agentic RAG with LangGraph [`API`] [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day04_LLM/7_6_LLM_RAG_LangChain_LangGraph.ipynb)
+6. RAG with LangChain and Agentic RAG with LangGraph [`API`] [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day04_LLM/6_LLM_RAG_LangChain_LangGraph.ipynb)
 
-7. Typhoon Text Model [`API / Hugging Face`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day04_LLM/7_8_Typhoon_Text_Inference.ipynb)
+7. Typhoon Text Model [`API / Hugging Face`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day04_LLM/7_Typhoon_Text_Inference.ipynb)
 
-8. Typhoon OCR [`API / Hugging Face`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day04_LLM/7_9_Typhoon_OCR_v1_5_Modified_Demo.ipynb)
+8. Typhoon OCR [`API / Hugging Face`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day04_LLM/8_Typhoon_OCR_v1_5_Modified_Demo.ipynb)
 
-9. Fine-tuning a Local LLM (Typhoon-7B) [`Hugging Face`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day04_LLM/7_10_LLM_Typhoon7b_Finetuning_Huggingface.ipynb)
+9. Fine-tuning a Local LLM (Typhoon-7B) [`Hugging Face`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day04_LLM/9_LLM_Typhoon7b_Finetuning_Huggingface.ipynb)
