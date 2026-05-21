@@ -4,16 +4,16 @@
 
 ## Code:
 
-### Day01
-#### Intro to Pandas
+### Topic 1: Introduction (No LAB)
+<!-- #### Intro to Pandas
 
 1. Pandas: [![Open In Colab](https://github.com/pvateekul/CU-DEPA-PracticalAI/blob/main/image/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day01_Intro_Pandas/1_Pandas.ipynb)
 
 2. Pandas with Youtube stat data: [![Open In Colab](https://github.com/pvateekul/CU-DEPA-PracticalAI/blob/main/image/colab-badge.svg?raw=true)](<https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day01_Intro_Pandas/2_Pandas_%28Dataset_Trending_YouTube_Video_Statistics%29.ipynb>)
 
-3. (Advanced) Pandas with Youtube stat data: [![Open In Colab](https://github.com/pvateekul/CU-DEPA-PracticalAI/blob/main/image/colab-badge.svg?raw=true)](<https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day01_Intro_Pandas/3_Advanced_Pandas_%28Dataset_Trending_YouTube_Video_Statistics%29.ipynb>)
+3. (Advanced) Pandas with Youtube stat data: [![Open In Colab](https://github.com/pvateekul/CU-DEPA-PracticalAI/blob/main/image/colab-badge.svg?raw=true)](<https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day01_Intro_Pandas/3_Advanced_Pandas_%28Dataset_Trending_YouTube_Video_Statistics%29.ipynb>) -->
 
-#### Supervised Learning
+### Topic 2: Supervised Learning
 1. Decision Trees: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day01_Supervised_Learning/1_Decision_Trees_Random_Forests_v3.ipynb)
 
 2. Linear Regression: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day01_Supervised_Learning/2_Linear_Regression_v2.ipynb)
@@ -24,7 +24,7 @@
 
 7. Save and Load Model: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day01_Supervised_Learning/5_Save_Load_Model_v2.ipynb)
 
-### Day02: Unsupervised Learning
+### Topic 3: Unsupervised Learning
 
 1. K-Means: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day02_Unsupervised_Learning/1_K_Means_Clustering_v2.ipynb)
 
@@ -32,7 +32,7 @@
 
 3. t-distributed stochastic neighbor embedding (t-SNE): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day02_Unsupervised_Learning/3_TSNE_opt1.ipynb)
 
-### Day03: Deep Learning
+### Topic 4: Deep Learning - CNN & RNN
 
 1. Image classification with CNN [`PyTorch Lightning`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day03_DL/1_Image_classification_CIFAR10_CNN(lightning).ipynb)
 
@@ -42,7 +42,7 @@
 
 4. Time series Forecasting: Stock Price [`PyTorch`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day03_DL/4_Time_series_forecasting_DataInGD_update.ipynb)
 
-### Day04: Large Langauge Model (LLM)
+### Topic 5: Large Langauge Model (LLM)
 
 1. Basic API Call with LangChain [`API`] [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day04_LLM/1_LLM_Basic_API_Call_LangChain.ipynb)
 
