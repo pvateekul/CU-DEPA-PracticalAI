@@ -6,6 +6,14 @@
 
 ### Topic 0: Data Preparation
 
+1. Impute Missing Value: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/DataPrep/Lab2_ImputeMissingValue_Pipeline.ipynb)
+
+2. Outliers - Take Log: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/DataPrep/Lab4_Outliers_Titanic_Pipeline.ipynb)
+
+3. Outliers - Remove them with Z-Score: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/DataPrep/Lab5_Outliers_Diabetes_(optional).ipynb)
+
+4. Split Train/Test: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/DataPrep/Lab3_SplitTrainTest.ipynb)
+
 ### Topic 1: Introduction (No LAB)
 <!-- #### Intro to Pandas
 
@@ -36,13 +44,15 @@
 
 ### Topic 4: Deep Learning - CNN & RNN
 
-1. Image classification with CNN [`PyTorch Lightning`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day03_DL/1_Image_classification_CIFAR10_CNN(lightning).ipynb)
+1. Image classification with CNN [`PyTorch Lightning`] (~10 min): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day03_DL/1_Image_classification_CIFAR10_CNN_(lightning).ipynb)
 
-2. Image classification with EfficientNetV2s [`PyTorch Lightning`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day03_DL/2_Image_classification_Animal_EfficientNetV2(lightning).ipynb)
+2. Image classification with EfficientNetV2s [`PyTorch Lightning`] (~3 min): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day03_DL/2_Image_classification_Animal_EfficientNetV2_(lightning).ipynb)
 
-3. Object detection with YOLOv8 (basic script) [`PyTorch Lightning`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day03_DL/3_Object_detection_VOCDetection_yolov8_basic.ipynb)
+    2.1. Image classification with EfficientNetb0 (Load a Pretrained Model from Hugging Face) [`PyTorch Lightning`] with Weights & Biases (~3 min): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day03_DL/2_1_Image_classification_Animal_EfficientNet_(lightning)_wandb_HuggingFace.ipynb)
 
-4. Time series Forecasting: Stock Price [`PyTorch`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day03_DL/4_Time_series_forecasting_DataInGD_update.ipynb)
+3. Object detection with YOLOv8 (basic script) [`PyTorch Lightning`] (~20-30 min): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day03_DL/3_Object_detection_VOCDetection_yolov8_basic.ipynb)
+
+4. Time series Forecasting: Stock Price [`PyTorch Lightning`] (~10 min): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day03_DL/4_Time_series_forecasting_DataInGD_update.ipynb)
 
 ### Topic 5: Large Langauge Model (LLM)
 
