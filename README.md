@@ -1,6 +1,6 @@
 # DEPA Practical AI @CU (2026)
 
-![alt text](https://github.com/pvateekul/CU-DEPA-PracticalAI/blob/main/image/meme.jpg)
+![alt text](https://github.com/pvateekul/CU-DEPA-PracticalAI/blob/main/image/course.png)
 
 ## Code:
 
