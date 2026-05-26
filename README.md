@@ -24,7 +24,7 @@
 3. (Advanced) Pandas with Youtube stat data: [![Open In Colab](https://github.com/pvateekul/CU-DEPA-PracticalAI/blob/main/image/colab-badge.svg?raw=true)](<https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day01_Intro_Pandas/3_Advanced_Pandas_%28Dataset_Trending_YouTube_Video_Statistics%29.ipynb>) -->
 
 ### Topic 2: Supervised Learning
-1. Decision Trees: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day01_Supervised_Learning/1_Decision_Trees_Random_Forests_v3.ipynb)
+1. Decision Trees and GridSearchCV: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day01_Supervised_Learning/1_Decision_Trees_Random_Forests_v3.ipynb)
 
 2. Linear Regression: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/Day01_Supervised_Learning/2_Linear_Regression_v2.ipynb)
 
