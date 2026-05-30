@@ -12,6 +12,9 @@
 
 3. Outliers - Remove them with Z-Score: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/DataPrep/3_Outliers_Diabetes_(optional).ipynb)
 
+4. Split Train/Test: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/DataPrep/4_SplitTrainTest.ipynb)
+
+5. Scikit-learn pipeline (Standardize & One-Hot): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/DataPrep/5_Scikit_learn_Pipeline.ipynb)
 
 ### Topic 1: Introduction (No LAB)
 <!-- #### Intro to Pandas
