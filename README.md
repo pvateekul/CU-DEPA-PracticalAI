@@ -6,13 +6,12 @@
 
 ### Topic 0: Data Preparation
 
-1. Impute Missing Value: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/DataPrep/Lab2_ImputeMissingValue_Pipeline.ipynb)
+1. Impute Missing Value: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/DataPrep/1_ImputeMissingValue_Pipeline.ipynb)
 
-2. Outliers - Take Log: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/DataPrep/Lab4_Outliers_Titanic_Pipeline.ipynb)
+2. Outliers - Take Log: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/DataPrep/2_Outliers_Titanic_Pipeline.ipynb)
 
-3. Outliers - Remove them with Z-Score: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/DataPrep/Lab5_Outliers_Diabetes_(optional).ipynb)
+3. Outliers - Remove them with Z-Score: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/DataPrep/3_Outliers_Diabetes_(optional).ipynb)
 
-4. Split Train/Test: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/CU-DEPA-PracticalAI/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/CU-DEPA-PracticalAI/blob/main/code/DataPrep/Lab3_SplitTrainTest.ipynb)
 
 ### Topic 1: Introduction (No LAB)
 <!-- #### Intro to Pandas
