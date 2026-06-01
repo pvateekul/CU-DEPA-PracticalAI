@@ -2,6 +2,8 @@
 
 ![alt text](https://github.com/pvateekul/CU-DEPA-PracticalAI/blob/main/image/course.png)
 
+## Exam slide link [here](https://docs.google.com/presentation/d/1tABaiFPTTDz9cP_teZPSrCXZAzWQLiw6b-rJbna0g80/edit?usp=sharing)
+
 ## Code:
 
 ### Topic 0: Data Preparation
